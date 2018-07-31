@@ -1,2 +1,3 @@
 # hello-world
-Hello word project to learn about GitHub
+Hello world project to learn about GitHub
+Looking at GitHub for first time
